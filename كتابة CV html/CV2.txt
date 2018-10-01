@@ -1,0 +1,16 @@
+<table border = "1">   <caption>MY - CV</caption>
+ <thead> <tr> 
+<th rowspan="2"><img src = "flower.image.0fada71f1acb0a62179bb2d633a93f63.jpg" width="40" height="80" alt = "my Picture" /></th>
+ <th colspan = "4"> <h1>this is my CV</h1> </th></tr>
+
+ <tr> <th>personal information</th> <th>Education</th> 
+     <th>Favorite News Sites</th>   <th>Favorite Food</th> </tr>
+</thead>
+
+ <tbody>  <tr> 
+     <td> </td>
+      <td> <ul>  <li> Name: rawan </li> <li> Family: EL-Agha</li><li>Date of BirthDay : 20\8\1999</li> <li> Age : 19 years</li> <li> Emaile : rawanagha092@gmaile.com</li></ul>  </td>
+       <td> <ul>  <li>  Study in Islamic University Of Gaza , </li> <li> College : IT</li><li> Specialization : Mobile Computing</li><li>level 2</li> </ul> </td>
+           <td> <ul>   <li> Donia Alwatan </li> <li> Egybest for Films</li>  </ul> </td>		          
+           <td> <ul>   <li> Maftool</li> <li> Pizza</li>  </ul>  </td>
+            </tr> </tbody> </table> </body>

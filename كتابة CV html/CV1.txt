@@ -1,0 +1,45 @@
+<head>
+	<meta charset="utf-8">
+	<title>CV Rawan Adel EL-Agha</title>
+
+</head>
+<body>
+	<h1> My CV</h1>
+	<p><strong> Personal Information </strong></p>
+	<ul>
+		<li> Name : Rawan</li>
+		<li> Family : EL-Agha</li>
+		<li>Date of BirthDay : 20\8\1999</li>
+		<li> Age : 19 years</li>
+		<li> Emaile : rawanagha092@gmaile.com</li>
+	</ul>
+	<hr>
+	<p><strong> Education Information</strong></p>
+	<ul>
+
+			<li> Study in Islamic University Of Gaza</li>
+			<li> University Id : 220172274</li>
+			<li> College : IT</li>
+			<li> Specialization : Mobile Computing</li>
+			<li> level 2</li>
+	
+		</li>
+
+	</ul>
+	<hr>
+	<p><strong> My Favorite Foods </strong></p>
+<ul>
+	<li> Maftool <a href="https://www.google.com/search?q=%D8%B5%D9%88%D8%B1%D8%A9+%D9%85%D9%81%D8%AA%D9%88%D9%84&hl=ar&tbm=isch&source=iu&ictx=1&fir=rwm3AJFgCr2C1M%253A%252ChELqvrFhaLa2KM%252C_&usg=AI4_-kQ1R82xDVZReRfgdAVHMtkSOkkn6Q&sa=X&ved=2ahUKEwjwh6amkOPdAhWMK1AKHT7dDhYQ9QEwCnoECAQQGA#imgrc=rwm3AJFgCr2C1M:"> 
+	<img src="C:\Users\mohamed hesham\Pictures\photo.jpg" height="130px" width="168px" alt="there is a problem in download Pic">
+</a>
+	<li> Pizza <a href="https://www.google.com/search?hl=ar&tbm=isch&sa=1&ei=B_ewW77VCM2iwAKj-aDYDQ&q=%D8%B5%D9%88%D8%B1%D8%A9+fdj.h&oq=%D8%B5%D9%88%D8%B1%D8%A9+fdj.h&gs_l=img.3...1315935.1318642.0.1318905.10.10.0.0.0.0.619.1497.0j6j5-1.7.0....0...1c.1.64.img..3.0.0....0.n2TBRyVa_GA#imgrc=5kehRCd3A91iqM:">
+		<img src="C:\Users\mohamed hesham\Pictures\maxresdefault.jpg" height="130px" width="168px" alt="there is a problem in apload Pic">
+</a>
+</ul>
+<hr>
+<p><strong> My Favorite News Sites</strong></p>
+<ol>
+<li> <a href="https://alwatan.com/">Donia Alwatan</a></li>	
+<li><a href="https://egy.best/">Egybest for Films</a></li>
+</ol>
+</body>
